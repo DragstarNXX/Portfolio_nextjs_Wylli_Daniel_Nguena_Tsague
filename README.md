@@ -1,3 +1,6 @@
+![Capture 5](https://github.com/DragstarNXX/Portfolio_nextjs_Wylli_Daniel_Nguena_Tsague/assets/127027002/0908be1d-5713-4c0c-b6bb-0b74830069df)
+![Uploading Capture 4.PNG…]()
+![Uploading Capture 3.PNG…]()
 ## Portfolio de Wylli Daniel 💯
 
 
@@ -20,5 +23,8 @@
 - Install all the modules by using `npm i` or `npm install`
 - Run the local development server by using `npm run dev`
 
+# images
+![Uploading Capture 2.PNG…]()
+![Uploading Capture 1.PNG…]()
 
 

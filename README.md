@@ -16,9 +16,9 @@
 
 # Usage
 
-- Clone the repository using `git clone https://github.com/manuarora700/simple-developer-portfolio-website.git`
-- Install all the modules by using `npm i` or `npm install` or `yarn`
-- Run the local development server by using `npm run dev` or `yarn dev`
+- Clone the repository using `https://github.com/DragstarNXX/Portfolio_nextjs_Wylli_Daniel_Nguena_Tsague.git`
+- Install all the modules by using `npm i` or `npm install`
+- Run the local development server by using `npm run dev`
 
 
 
